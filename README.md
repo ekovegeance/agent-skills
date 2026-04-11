@@ -11,4 +11,4 @@ This repository contains a collection of skills for agents, designed to enhance 
    ```  
 #### Laravel
    ```bash
-    php artisan boost:add-skill ekovegeance/agent-skills/skills  --skill laravel
+    php artisan boost:add-skill ekovegeance/agent-skills/skills --skill laravel
